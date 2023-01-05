@@ -1,0 +1,12 @@
+.header {font-size: 0.5cm;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+html {height: 100%;}
+body {
+    background: linear-gradient(to bottom right, rgb(234, 0, 255), rgb(29, 4, 250));
+  }
+  .footer {color: black;}
+  
+img{
+  width: 100px;
+  height: 100px;
+}
